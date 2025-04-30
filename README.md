@@ -1,2 +1,9 @@
-# Business-Financial-Data-Visualization
-This repository showcases various data visualization techniques to analyze and visualize financial data such as profit and expense trends over the years. Using Python libraries like Matplotlib and Pandas, the repository contains examples of line plots, bar charts, and scatter plots for financial data analysis.
+# Business Financial Data Visualization
+
+This project demonstrates different types of visualizations applied to business financial data. Using Python libraries **Matplotlib** and **Pandas**, it illustrates how to visualize and analyze business financial metrics such as expenses and profits over time.
+
+## Features:
+- **Line Plot**: Shows the trends of profit and expense over multiple years.
+- **Bar Chart**: Provides a breakdown of annual expenses.
+- **Scatter Plot**: Correlates profit with the year and expense with profit.
+
